@@ -1,1 +1,5 @@
 测试github新建dir文件夹
+http://webapps.stackexchange.com/questions/36411/create-a-folder-in-github-via-the-web-interface
+
+文件名加/ 为文件夹
+文件名加.. 返回上一级
